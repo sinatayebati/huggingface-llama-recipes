@@ -145,3 +145,8 @@ With the ever hungry models, the need for synthetic data generation is
 on the rise. Here we show you how to build your very own synthetic dataset.
 
 * [Generate synthetic data with `distilabel`](../synthetic_data_gen/synthetic-data-with-llama.ipynb)
+
+## RAG Pipeline 
+Looking for a simple RAG pipeline? We've got you covered! This notebook demonstrates how to build a RAG pipeline using Hugging Face's Llama 3.2 3B model, LangChain, and Chroma DB. It features streaming output for real-time responses, advanced prompt engineering, and easy configuration.
+
+* [Simple RAG Pipeline](../llama_rag/llama_rag_pipeline.ipynb)
